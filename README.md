@@ -14,6 +14,3 @@
 - [Building Performance Analysis in Revit 2016 R2 with Autodesk Insight 360](http://www.aecbytes.com/tipsandtricks/2015/issue76-revit.html)
 - [UC Berkeley - CBE Thermal Comfort Tool](http://comfort.cbe.berkeley.edu/)
 - [CFD Tutorials](http://help.autodesk.com/view/SCDSE/2016/ENU/)
-
-- [x] assgag
-- [ ] afsgfa
