@@ -19,5 +19,5 @@
 - [CFD Tutorials](http://help.autodesk.com/view/SCDSE/2016/ENU/)
 
 ## Other Information:
-- [課程參考檔案區](https://drive.google.com/folderview?id=0Bx70M_Zm1oPjaXNQcVQ5dVN0eTg&usp=sharing#list)
+- [課程檔案區](https://drive.google.com/folderview?id=0Bx70M_Zm1oPjaXNQcVQ5dVN0eTg&usp=sharing#list)
 - Laptop Login Password: 23773309
