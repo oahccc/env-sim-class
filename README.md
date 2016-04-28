@@ -15,7 +15,7 @@ BIM Application & Sustainable Design Engineer @Taiwan BIM Tech.
 |6| 氣候分析 | [Climate Consultant](http://www.energy-design-tools.aud.ucla.edu/climate-consultant/request-climate-consultant.php) |UCLA 建築系所開發，免費使用|
 |7| 流體力學模擬 | [Autodesk CFD Simulation](http://www.autodesk.com/education/free-software/simulation-cfd) |教育版帳戶免費使用|
 
-`[課程檔案區](https://drive.google.com/folderview?id=0Bx70M_Zm1oPjaXNQcVQ5dVN0eTg&usp=sharing#list)`
+[`課程檔案區`](https://drive.google.com/folderview?id=0Bx70M_Zm1oPjaXNQcVQ5dVN0eTg&usp=sharing#list)
 
 ## List of Online Resources:
 - [Autodesk - Building Performance Analysis Certificate](http://sustainabilityworkshop.autodesk.com/bpac)
@@ -24,6 +24,6 @@ BIM Application & Sustainable Design Engineer @Taiwan BIM Tech.
 - [CFD Tutorials](http://help.autodesk.com/view/SCDSE/2016/ENU/)
 
 ## Other Information:
-- 筆電 Login Password: 23773309
+- 筆電 Login: 23773309
 - WiFi: TBT_Guest
 - 臨時教育版帳號 (煩請輪流使用): TBT-Class / t23773309
