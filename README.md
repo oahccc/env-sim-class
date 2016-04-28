@@ -1,7 +1,7 @@
 # 環境分析相關軟體簡介 2016/4/28
-趙之暢 LEED AP [chuck.bim.tw@gmail.com](mailto:chuck.bim.tw@gmail.com)
+趙之暢 | LEED AP | chuck.bim.tw@gmail.com
 
-## 課程順序
+## Content:
 || 功能 | 軟體 | 說明 |
 | --- | --- | --- | --- |
 |1| 量體 LOD 100 Modeling <br>(含日照/熱輻射模擬) | [Autodesk FormIt 360](http://formit360.autodesk.com/) |- 線上版免費使用，亦有付費 Pro 版 <br>- 取代 Ecotect 熱輻射模擬功能|
@@ -24,4 +24,4 @@
 - [課程檔案區](https://drive.google.com/folderview?id=0Bx70M_Zm1oPjaXNQcVQ5dVN0eTg&usp=sharing#list)
 - 筆電 Login Password: 23773309
 - WiFi: TBT_Guest
-- 臨時教育版帳號: TBT-Class / t23773309 (煩請輪流使用)
+- 臨時教育版帳號 (煩請輪流使用): TBT-Class / t23773309
