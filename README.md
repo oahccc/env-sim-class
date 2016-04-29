@@ -26,4 +26,4 @@ BIM Application & Sustainable Design Engineer @Taiwan BIM Tech.
 ## Other Information:
 - 筆電 Login: 23773309
 - WiFi: TBT_Guest
-- 臨時教育版帳號 (煩請輪流使用): TBT-Class / t23773309
+- ~~臨時教育版帳號 (煩請輪流使用): TBT-Class / t23773309~~
