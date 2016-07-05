@@ -11,7 +11,7 @@ BIM Application & Sustainable Design Engineer @Taiwan BIM Tech.
 |2| 室外風場模擬 | [Autodesk Flow Design](http://www.autodesk.com/education/free-software/flow-design) |- 教育版帳戶免費使用<br>- Vasari 後繼軟體|14:15-14:35|
 |3| 室內採光模擬 |1. [Revit 2016 R2 Update2](https://insight360.autodesk.com/oneenergy/Landing/Download) <br>2. [Velux Daylight Visualizer](http://viz.velux.com/daylight_visualizer/download)|- Revit 2016 內部 plug-in<br>- 取代 Ecotect 自然採光與熱輻射模擬功能|14:50-15:20|
 |4| LOD 200-350 Modeling | Revit Architecture 2016 | 執行細部門窗拆卸之工作 |15:20-15:50|
-|5| 室內自然換氣模擬 | 1. [Autodesk Flow Design](http://www.autodesk.com/education/free-software/flow-design) <br>2. [Autodesk CFD Flex](http://www.autodesk.com/education/free-software/simulation-cfd) |1.同上 <br>2.教育版免費使用|16:10-16:30|
+|5| 室內自然換氣模擬 | 1. [Autodesk Flow Design](http://www.autodesk.com/education/free-software/flow-design) <br>2. [Autodesk CFD Flex](http://www.autodesk.com/education/free-software/simulation-cfd) |教育版免費使用|16:10-16:30|
 |6| 氣候分析 | [Climate Consultant](http://www.energy-design-tools.aud.ucla.edu/climate-consultant/request-climate-consultant.php) |UCLA 建築系所開發，免費使用|16:30-16:50|
 |7| 流體力學模擬 | [Autodesk CFD Flex](http://www.autodesk.com/education/free-software/simulation-cfd) |教育版帳戶免費使用|17:00-17:30|
 
