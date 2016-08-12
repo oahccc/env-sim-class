@@ -13,6 +13,7 @@ Project Coordinator & Sustainability Specialist
 |5| 細部設計量體建模 | Revit Architecture 2016 | 執行細部門窗拆卸之工作 |16:20-16:50|
 |6| 室內自然換氣模擬 | [Autodesk Flow Design](http://www.autodesk.com/education/free-software/flow-design) <br>Autodesk Vasari |- Flow Design教育版帳戶免費使用 <br>- 出模擬動畫|17:00-17:30|
 |7| 熱流模擬、室內外風場模擬 | [Autodesk CFD Flex](http://www.autodesk.com/education/free-software/simulation-cfd) |- 教育版帳戶免費使用<br>- 高精細度，設定困難|補充說明|
+
 *台賓科技保留調整課程內容之權利，調整後將發佈於此，不另行通知
 
 <a href="https://drive.google.com/folderview?id=0Bx70M_Zm1oPjaXNQcVQ5dVN0eTg&usp=sharing#list" target="_blank">課程檔案區</a><br>
@@ -29,4 +30,4 @@ Project Coordinator & Sustainability Specialist
 ## 其他:
 - 筆電 Login: 23773309
 - WiFi: TBT_Guest
-- 臨時教育版帳號 (煩請輪流使用): TBT-Class / tbt23773309
+- 臨時教育版帳號 (煩請輪流使用): ~~TBT-Class / tbt23773309~~
