@@ -1,7 +1,7 @@
 # Introduction to Environmental Simulation and Analytics
 ```
 Chuck C. Chao LEED AP | chuck.bim.tw@gmail.com
-Project Coordinator & Sustainable Design Consultant
+Project Coordinator & Sustainable Design Consultant at Taiwan BIM Technology
 ```
 
 || 功能 | 軟體 | 說明 | 時間 |
